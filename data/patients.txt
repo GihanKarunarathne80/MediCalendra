@@ -1,0 +1,7 @@
+// patient data file - initially empty
+P1791830863488,test1,test@gmail,0123456789
+P1794304964783,G Karunarathne,gihan.h80@gmail.com,0763674099
+P1794317644843,john silva,john@gmail.com,0764561237
+P1794329699750,dinitha senanyake,dinitha@gmail.com,0764444098
+P1794329768782,dinuka heshan,dinuka22@gmail.com,0786394566
+P1794409823277,navodya,navodya@gmail.com,0763777099
